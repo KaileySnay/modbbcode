@@ -1,0 +1,8 @@
+services:
+    _defaults:
+        autowire: true
+
+    kaileysnay.modbbcode.listener:
+        class: kaileysnay\modbbcode\event\main_listener
+        tags:
+            - { name: event.listener }
