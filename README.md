@@ -20,7 +20,7 @@ Adds a BBCode for moderator remarks; only usable for moderators.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/modbbcode/workflows/Tests/badge.svg)](https://github.com/KaileySnay/modbbcode/actions)
+master: [![Build Status](https://github.com/kaileysnay/modbbcode/workflows/Tests/badge.svg)](https://github.com/kaileysnay/modbbcode/actions)
 
 ## License
 
